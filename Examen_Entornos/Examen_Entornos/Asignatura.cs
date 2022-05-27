@@ -4,14 +4,7 @@ using System.Text;
 
 namespace Examen_Entornos
 {
-    /*
-     * Clase que representa la gestíon de las notas para una asignatura.
-     * Se puede(métodos): Introducir la asignatura
-     * Registrar las notas de prácticas y examen para cada evaluación.
-     * Calcular las notas por cada trimestre.
-     * Calcular la nota final de curso.
-     * Estos comentarios se deben eliminar y usar comentarios de documentación en su lugar.
-     */
+    
 
 
     class Asignatura
