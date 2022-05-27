@@ -75,7 +75,7 @@ namespace Examen_Entornos
                 }
             }
         }
-
+        
         /// <summary>
         /// Para estas cuatro funciones hemos encapsulado el valor final de la nota en una variable para que sea todo mas entendible. Ademas hemos cambiado sus nombres para hacerlo mas legible
         /// </summary>
